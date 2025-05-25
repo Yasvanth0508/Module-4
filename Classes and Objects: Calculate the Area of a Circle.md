@@ -25,6 +25,7 @@ res.slot()
 ```
 
 ## Output
-![Uploading 439308211-353bddc7-e4f1-469f-9c7d-f8967d7e1aa3.png…]()
+![439308211-353bddc7-e4f1-469f-9c7d-f8967d7e1aa3](https://github.com/user-attachments/assets/85867891-2cdd-45b0-8e56-73ce620a15e2)
+
 
 ## Result
